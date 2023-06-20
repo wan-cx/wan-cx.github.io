@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wan-cx
-- 📫 How to reach me 2954606532@qq.com
+- 📫 这是一个技术小生的项目
 
 <!---
 wan-cx/wan-cx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
